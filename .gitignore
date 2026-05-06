@@ -1,0 +1,17 @@
+# İşletim sistemi kalıntıları
+.DS_Store
+Thumbs.db
+
+# C Dili Derlenmiş Çıktı Dosyaları (Linux/Mac)
+*.o
+*.out
+
+# C Dili Derlenmiş Çıktı Dosyaları (Windows)
+*.exe
+
+# Derleme (Build) Klasörleri
+build/
+bin/
+
+# (Opsiyonel) Editör Ayarları
+.vscode/
